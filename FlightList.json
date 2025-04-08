@@ -1,0 +1,44 @@
+{
+    "destinations": [
+        {
+            "name": "Paris",
+            "flightCost": 750,
+            "image": "https://cdn.sanity.io/images/b7pblshe/production/04bf7c7b94f4ed52073ee23ed12c25b6267a855d-1400x1400.jpg"
+        },
+        {
+            "name": "Tokyo",
+            "flightCost": 900,
+            "image": "https://cdn.sanity.io/images/b7pblshe/production/d0343337a0933cc571899ece2b5e568d6d066180-1500x1000.jpg"
+        },
+        {
+            "name": "Mexico City",
+            "flightCost": 225,
+            "image": "https://cdn.sanity.io/images/b7pblshe/production/4def925ea76f1fab4787e2286b8e240b3cfc6f1b-4032x2352.jpg"
+        },
+        {
+            "name": "New York",
+            "flightCost": 600,
+            "image": "https://cdn.sanity.io/images/b7pblshe/production/3aabfb3b426baabb56363d54de0e0b6234af691c-2400x1600.jpg"
+        },
+        {
+            "name": "Lisbon",
+            "flightCost": 300,
+            "image": "https://cdn.sanity.io/images/b7pblshe/production/37068b465563be1458b00875104f027ea9e930df-1200x800.jpg"
+        },
+        {
+            "name": "Sydney",
+            "flightCost": 1200,
+            "image": "https://cdn.sanity.io/images/b7pblshe/production/4077419f38e0c63159baac8360757c906b3c345a-1920x1280.jpg"
+        },
+        {
+            "name": "Cape Town",
+            "flightCost": 1100,
+            "image": "https://cdn.sanity.io/images/b7pblshe/production/c315a542f7d61e7f510c43b26cce9b031296de8d-3000x1687.jpg"
+        },
+        {
+            "name": "London",
+            "flightCost": 350,
+            "image": "https://cdn.sanity.io/images/b7pblshe/production/6160ac8901e0762793f8e4c49992446efe02d1eb-450x450.jpg"
+        }
+    ]
+}
